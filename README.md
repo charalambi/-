@@ -13,6 +13,7 @@ your tokens will be stored in the output.txt
 this is a token gen
 the tokens that are created are random 
 and have a small chance to work so put in a high number
-also use a Token checker to filter out the working ones
+after u created the tokens filter out the working ones
+with the token Checker
 
 Made by YABOI
