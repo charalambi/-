@@ -13,7 +13,7 @@ print(Fore.GREEN + """
 
 
 def main():
-    start = input("(1) token gen\n(2) token checker\n=>")
+    start = input("[1] token gen\n[2] token checker\n=>")
 
     if start == "1":
         amount = input("tokens amount: ")
