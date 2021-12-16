@@ -5,6 +5,8 @@ to use install:
 
 1.pip install random 
 2.pip install colorama
+3.pip install requests
+
 
 to run:
 python3 TokenGen.py
